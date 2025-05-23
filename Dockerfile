@@ -10,7 +10,9 @@ RUN npm install -f
 
 COPY . .
 RUN npm run build
-EXPOSE 3000
 
 # Run the built app
 CMD ["npm", "run", "preview"]
+
+# Expose the port the app runs on
+EXPOSE 4173

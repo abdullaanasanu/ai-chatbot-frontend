@@ -87,7 +87,7 @@ export const Home = () => {
   return (
     <>
       <div className="container px-8 mx-auto my-10">
-        <div className="flex items-center justify-between gap-4">
+        <div className="flex items-center justify-between gap-4 flex-col md:flex-row">
           <img
             src="/hero.svg"
             alt="Hero"
