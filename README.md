@@ -21,8 +21,8 @@ A lightweight frontend project built with:
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/abdullaanasanu/ai-chatbot-frontend
+cd ai-chatbot-frontend
 ```
 
 2. **Install Dependency**
